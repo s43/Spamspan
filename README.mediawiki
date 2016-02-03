@@ -1,4 +1,4 @@
-# Spamspan
+=Spamspan=
 
 '''Author:''' SAID A.
 '''Version:''' 1.0
